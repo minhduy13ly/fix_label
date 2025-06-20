@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Sản phẩm này có tên là gì?",
+        "answer": "ORIHIRO",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Đây là loại sản phẩm gì?",
+        "answer": "Không xác định",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này có màu như thế nào?",
+        "answer": "Nâu, xanh lá nhạt, trắng",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
+        "answer": "Không xác định",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Sản phẩm này có hạn sử dụng đến khi nào?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

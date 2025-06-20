@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Hãy cho tôi biết tên sản phẩm trong ảnh?",
+        "answer": "Không xác định",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này được phân loại như thế nào?",
+        "answer": "Không xác định",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này màu gì?",
+        "answer": "Nhãn vàng nhạt - chai màu trắng",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Hãy cho tôi biết cách sử dụng sản phẩm này?",
+        "answer": "Có thể mở rộng sử dụng cho các thiết bị điện tử điện thoại, máy tính, laptop",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hạn sử dụng của sản phẩm trong ảnh là gì?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

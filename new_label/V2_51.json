@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Sản phẩm này được gọi là gì?",
+        "answer": "C2 Ổi Hồng Chanh Dây",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này thuộc loại nào?",
+        "answer": "Nước ngọt, Nước giải khát",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Hãy cho tôi biết màu sắc của sản phẩm này?",
+        "answer": "Hồng, Vàng",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
+        "answer": "Uống",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hạn sử dụng của sản phẩm là gì?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

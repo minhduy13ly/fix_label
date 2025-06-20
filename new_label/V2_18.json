@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Có thể cho biết tên của sản phẩm này không?",
+        "answer": "Nước uống đóng chai Danisa",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Phân loại của sản phẩm này là gì?",
+        "answer": "Nước giải khát",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này có đặc điểm gì về màu sắc?",
+        "answer": "Trắng, xanh lá",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
+        "answer": "Nước uống",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Tôi có thể sử dụng sản phẩm này trong bao lâu?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Tên của sản phẩm này là gì?",
+        "answer": "CLENZIDERM",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Đây là loại sản phẩm gì?",
+        "answer": "Lotion trị mụn",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này có đặc điểm gì về màu sắc?",
+        "answer": "Trắng",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
+        "answer": "dung dịch đặc trị giúp sạch sâu lỗ chân lông, làm sạch da, có tác dụng loại sạch nhẹ nhàng bụi bẩn, tế bào chết, dầu thừa còn tồn động trong lỗ chân lông vừa hỗ trợ điều trị và ngăn ngừa mụn hình thành, nước hoa hồng",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hãy cho tôi biết hạn dùng của sản phẩm này?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

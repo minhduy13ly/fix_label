@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Đây là sản phẩm gì?",
+        "answer": "Nước tương đậu nành Maggi",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này thuộc loại nào?",
+        "answer": "Dầu thực vật",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này có màu như thế nào?",
+        "answer": "Vàng, Đen",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
+        "answer": "Dùng để chấm trực tiếp với các món ăn như đậu hũ, rau luộc, thịt luộc, ... Dùng để tẩm ướp các món kho, xào, nướng, ... Dùng để pha chế các loại nước chấm.",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Sản phẩm trong ảnh có hạn dùng đến khi nào?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

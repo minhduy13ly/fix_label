@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Tên của sản phẩm này là gì?",
+        "answer": "Healthy Care Brain Booster Ginkgo Biloba",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này thuộc loại nào?",
+        "answer": "Viên uống bổ não",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Hãy cho tôi biết màu sắc của sản phẩm này?",
+        "answer": "Trắng, xanh dương",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
+        "answer": "Hỗ trợ tăng cường lưu thông máu, hỗ trợ tăng cường khả năng hoạt động của não, cải thiện trí nhớ",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Tôi có thể sử dụng sản phẩm này trong bao lâu?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

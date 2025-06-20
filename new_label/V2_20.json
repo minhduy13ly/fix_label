@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Hãy cho tôi biết tên sản phẩm trong ảnh?",
+        "answer": "ACNOTIN",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này thuộc loại nào?",
+        "answer": "Thuốc điều trị mụn trứng cá nặng",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này có màu như thế nào?",
+        "answer": "Trắng, đỏ",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Cách sử dụng sản phẩm này như thế nào?",
+        "answer": "Thuốc uống",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hãy cho tôi biết hạn dùng của sản phẩm này?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Tên sản phẩm trong ảnh là gì?",
+        "answer": "Tường An Cooking Oil",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Phân loại của sản phẩm này là gì?",
+        "answer": "Dầu thực vật",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Hãy cho tôi biết màu sắc của sản phẩm này?",
+        "answer": "Vàng, Trắng",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
+        "answer": "chuyên dùng cho việc chiên và xào, cũng thường được sử dụng cho các mục đích khác như trộn salad, làm nước sốt, và có thể được dùng để chế biến các món chay",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hạn sử dụng của sản phẩm trong ảnh là gì?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

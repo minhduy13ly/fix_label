@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Tên của sản phẩm này là gì?",
+        "answer": "Xí muội Thái",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này được phân loại như thế nào?",
+        "answer": "Thực phẩm",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này màu gì?",
+        "answer": "Trắng, Nâu",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Hãy cho tôi biết cách sử dụng sản phẩm này?",
+        "answer": "Kích thích vị giác, hỗ trợ tiêu hoá, bổ sung vitamin và khoáng chất",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Sản phẩm này có hạn sử dụng đến khi nào?",
+        "answer": "30 đến 60 ngày",
+        "field": "Hạn sử dụng"
+    }
+]

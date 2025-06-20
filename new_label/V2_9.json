@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Sản phẩm này được gọi là gì?",
+        "answer": "H'REN",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này thuộc loại gì?",
+        "answer": "Lõi hạnh nhân",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này có đặc điểm gì về màu sắc?",
+        "answer": "Nhãn vàng nâu - hộp trong suốt",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm này dùng để làm gì?",
+        "answer": "Ăn",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Sản phẩm này có thời hạn sử dụng bao lâu?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

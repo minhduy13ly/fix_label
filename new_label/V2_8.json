@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Sản phẩm này được gọi là gì?",
+        "answer": "BLACKMORE",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Có thể cho biết loại của sản phẩm này được không?",
+        "answer": "VITAMIN E 1000",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này màu gì?",
+        "answer": "Nhãn màu trắng - lọ màu nâu",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Cách sử dụng sản phẩm này như thế nào?",
+        "answer": "Không xác định",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hạn sử dụng của sản phẩm là gì?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

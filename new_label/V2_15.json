@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Sản phẩm này được gọi là gì?",
+        "answer": "JOMI",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Phân loại của sản phẩm này là gì?",
+        "answer": "Tăm bông",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Bạn có thể mô tả màu sắc của sản phẩm không?",
+        "answer": "Trắng, xanh da trời",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
+        "answer": "Dùng để vệ sinh tai, mũi, bôi thuốc hoặc vệ sinh khác",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Sản phẩm này có hạn sử dụng đến khi nào?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Tên sản phẩm trong ảnh là gì?",
+        "answer": "Vĩnh Hảo",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này thuộc loại nào?",
+        "answer": "Nước khoáng",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này có màu như thế nào?",
+        "answer": "Nhãn xanh dương - chai trong suốt",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
+        "answer": "Uống",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hãy cho tôi biết hạn dùng của sản phẩm này?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

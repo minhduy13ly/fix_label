@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Sản phẩm này có tên là gì?",
+        "answer": "Dung dịch nhỏ mắt Diquas",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Có thể cho biết loại của sản phẩm này được không?",
+        "answer": "Thuốc nhỏ mắt",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này màu gì?",
+        "answer": "Trắng, xanh dương, vàng",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
+        "answer": "Nhỏ từng giọt vào mắt",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Tôi có thể sử dụng sản phẩm này trong bao lâu?",
+        "answer": "31 tháng kể từ ngày sản xuất",
+        "field": "Hạn sử dụng"
+    }
+]

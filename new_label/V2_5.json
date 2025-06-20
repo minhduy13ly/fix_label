@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Sản phẩm này có tên là gì?",
+        "answer": "Lyys Store",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Phân loại của sản phẩm này là gì?",
+        "answer": "Nước lau mắt kính",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này có đặc điểm gì về màu sắc?",
+        "answer": "Nhãn vàng nhạt - chai màu trắng",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Cách sử dụng sản phẩm này như thế nào?",
+        "answer": "Lau kính",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hạn sử dụng của sản phẩm trong ảnh là gì?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

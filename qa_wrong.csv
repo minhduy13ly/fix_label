@@ -1,0 +1,286 @@
+image_id,question_id,true_answer,model_answer,question,field,image_number
+V2_1,1,Không xác định,Oxy Già,Đây là sản phẩm gì?,Tên sản phẩm,1
+V2_1,2,Không xác định,"Dung dịch sát khuẩn, khử trùng",Đây là loại sản phẩm gì?,Loại sản phẩm,1
+V2_1,3,Nhãn màu xanh trắng - lọ màu trắng,Trắng,Sản phẩm này có màu như thế nào?,Màu sắc,1
+V2_1,4,Không xác định,"Sát khuẩn, khử trùng",Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,1
+V2_2,1,Không xác định,IODOPRA,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,2
+V2_2,2,Không xác định,Thuốc sát trùng,Sản phẩm trong ảnh thuộc nhóm nào?,Loại sản phẩm,2
+V2_2,3,Nhãn màu xanh trắng - lọ màu trắng,Trắng,Sản phẩm này có màu như thế nào?,Màu sắc,2
+V2_3,1,Không xác định,Blackmores Vitamins,Sản phẩm này được gọi là gì?,Tên sản phẩm,3
+V2_3,2,Không xác định,Vitamin,Có thể cho biết loại của sản phẩm này được không?,Loại sản phẩm,3
+V2_3,3,Nhãn màu trắng - lọ màu nâu,Nâu,Sản phẩm này có màu như thế nào?,Màu sắc,3
+V2_3,5,Không xác định,10/27,Hạn sử dụng của sản phẩm trong ảnh là gì?,Hạn sử dụng,3
+V2_4,1,Không xác định,Blackmores Vitamins,Có thể cho biết tên của sản phẩm này không?,Tên sản phẩm,4
+V2_4,2,Không xác định,Capsule,Có thể cho biết loại của sản phẩm này được không?,Loại sản phẩm,4
+V2_4,3,Nhãn màu trắng - lọ màu nâu,Nâu,Sản phẩm trong ảnh có màu gì?,Màu sắc,4
+V2_4,4,Không xác định,Uống 1 viên mỗi ngày,Hãy cho tôi biết cách sử dụng sản phẩm này?,Công dụng/Hướng dẫn sử dụng,4
+V2_5,1,Lyys Store,Nước lau mắt kính,Sản phẩm này có tên là gì?,Tên sản phẩm,5
+V2_5,2,Nước lau mắt kính,Nước lau kính,Phân loại của sản phẩm này là gì?,Loại sản phẩm,5
+V2_5,3,Nhãn vàng nhạt - chai màu trắng,"Trắng, be",Sản phẩm này có đặc điểm gì về màu sắc?,Màu sắc,5
+V2_5,4,Lau kính,Không xác định,Cách sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,5
+V2_6,2,Không xác định,Chất làm sạch,Sản phẩm này được phân loại như thế nào?,Loại sản phẩm,6
+V2_6,3,Nhãn vàng nhạt - chai màu trắng,Trắng và be,Sản phẩm này màu gì?,Màu sắc,6
+V2_6,4,"Có thể mở rộng sử dụng cho các thiết bị điện tử điện thoại, máy tính, laptop",Xịt lên bề mặt cần làm sạch,Hãy cho tôi biết cách sử dụng sản phẩm này?,Công dụng/Hướng dẫn sử dụng,6
+V2_7,2,Không xác định,Dung dịch vệ sinh mắt kính,Có thể cho biết loại của sản phẩm này được không?,Loại sản phẩm,7
+V2_7,3,Nhãn vàng nhạt - chai màu trắng,Trắng và be,Sản phẩm này màu gì?,Màu sắc,7
+V2_7,4,Khuyên dùng kèm khăn lau kính chuyên dụng; Giúp mắt kính sáng đẹp; Giúp tầm nhìn rõ nét; Tạo lớp màng bảo vệ mắt kính,Khuyên dùng kèm khăn lau kính chuyên dụng,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,7
+V2_8,1,BLACKMORE,Blackmores Vitamin E 1000,Sản phẩm này được gọi là gì?,Tên sản phẩm,8
+V2_8,2,VITAMIN E 1000,Vitamin,Có thể cho biết loại của sản phẩm này được không?,Loại sản phẩm,8
+V2_8,3,Nhãn màu trắng - lọ màu nâu,"Trắng, đỏ, nâu",Sản phẩm này màu gì?,Màu sắc,8
+V2_9,1,H'REN,H'REN Lõi Hạnh Nhân (Almond Nuts),Sản phẩm này được gọi là gì?,Tên sản phẩm,9
+V2_9,2,Lõi hạnh nhân,Thực phẩm (Hạt),Sản phẩm này thuộc loại gì?,Loại sản phẩm,9
+V2_9,3,Nhãn vàng nâu - hộp trong suốt,Nâu,Sản phẩm này có đặc điểm gì về màu sắc?,Màu sắc,9
+V2_10,1,Không xác định,Hạnh nhân,Sản phẩm này được gọi là gì?,Tên sản phẩm,10
+V2_10,2,Không xác định,"Thực phẩm, hạt",Có thể cho biết loại của sản phẩm này được không?,Loại sản phẩm,10
+V2_10,3,Nhãn vàng nâu - hộp trong suốt,Nâu,Màu của sản phẩm là màu gì?,Màu sắc,10
+V2_10,4,Ăn,Không xác định,Hãy cho tôi biết cách sử dụng sản phẩm này?,Công dụng/Hướng dẫn sử dụng,10
+V2_11,1,Không xác định,Hạnh nhân.,Đây là sản phẩm gì?,Tên sản phẩm,11
+V2_11,2,Lõi hạnh nhân,Các loại hạt.,Sản phẩm này thuộc loại nào?,Loại sản phẩm,11
+V2_11,3,Nhãn vàng nâu - hộp trong suốt,Nâu.,Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,11
+V2_11,4,"Ăn trực tiếp, dùng làm nguyên liệu để làm bánh hoặc dùng tùy thích","Ăn trực tiếp, làm nguyên liệu làm bánh.",Sản phẩm này dùng để làm gì?,Công dụng/Hướng dẫn sử dụng,11
+V2_11,5,Xem trên bao bì sản phẩm,Xem trên bao bì sản phẩm.,Hạn sử dụng của sản phẩm trong ảnh là gì?,Hạn sử dụng,11
+V2_12,1,Vĩnh Hảo,Nước khoáng Vĩnh Hảo,Sản phẩm này có tên là gì?,Tên sản phẩm,12
+V2_12,3,Nhãn xanh dương - chai trong suốt,Trong suốt,Sản phẩm này có màu như thế nào?,Màu sắc,12
+V2_12,4,Uống - Giúp bổ sung khoáng chất từ thiên nhiên cơ thể cần mỗi ngày,Bổ sung khoáng chất,Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,12
+V2_13,1,Vĩnh Hảo,Nước uống đóng chai Vĩnh Hảo không ga,Sản phẩm này có tên là gì?,Tên sản phẩm,13
+V2_13,3,Nhãn xanh dương - chai trong suốt,Trong suốt,Sản phẩm này có màu như thế nào?,Màu sắc,13
+V2_13,4,Uống ngon hơn khi ướp lạnh,Dùng để uống,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,13
+V2_14,1,Vĩnh Hảo,Nước khoáng Vĩnh Hảo.,Tên sản phẩm trong ảnh là gì?,Tên sản phẩm,14
+V2_14,2,Nước khoáng,Nước khoáng.,Sản phẩm này thuộc loại nào?,Loại sản phẩm,14
+V2_14,3,Nhãn xanh dương - chai trong suốt,Không màu.,Sản phẩm này có màu như thế nào?,Màu sắc,14
+V2_14,4,Uống,Cung cấp nước và khoáng chất cho cơ thể.,Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,14
+V2_15,1,JOMI,Jomi 抗菌めんぼう,Sản phẩm này được gọi là gì?,Tên sản phẩm,15
+V2_15,2,Tăm bông,Bông ngoáy tai,Phân loại của sản phẩm này là gì?,Loại sản phẩm,15
+V2_15,3,"Trắng, xanh da trời","Trắng, xanh dương",Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,15
+V2_15,4,"Dùng để vệ sinh tai, mũi, bôi thuốc hoặc vệ sinh khác",Không xác định,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,15
+V2_16,1,JOMI,Tăm bông kháng khuẩn JOMI,Tên sản phẩm trong ảnh là gì?,Tên sản phẩm,16
+V2_16,3,"Trắng, xanh da trời",Trắng,Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,16
+V2_16,4,"Dùng để vệ sinh tai, mũi, bôi thuốc hoặc vệ sinh khác","Vệ sinh tai, mũi, bôi thuốc",Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,16
+V2_16,5,5 năm tính từ ngày sản xuất,5 năm kể từ ngày sản xuất in trên đáy hộp,Hãy cho tôi biết hạn dùng của sản phẩm này?,Hạn sử dụng,16
+V2_17,1,Nước uống đóng chai Danisa,Dasani,Sản phẩm này có tên là gì?,Tên sản phẩm,17
+V2_17,2,Nước giải khát,Nước uống đóng chai,Sản phẩm này thuộc loại gì?,Loại sản phẩm,17
+V2_17,3,"Trắng, xanh lá","Trong suốt, nắp xanh lá cây",Màu của sản phẩm là màu gì?,Màu sắc,17
+V2_17,4,Nước uống,Để uống,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,17
+V2_18,1,Nước uống đóng chai Danisa,Nước Uống Đóng Chai,Có thể cho biết tên của sản phẩm này không?,Tên sản phẩm,18
+V2_18,2,Nước giải khát,Nước uống đóng chai,Phân loại của sản phẩm này là gì?,Loại sản phẩm,18
+V2_18,3,"Trắng, xanh lá","Trong suốt, nắp xanh lá cây",Sản phẩm này có đặc điểm gì về màu sắc?,Màu sắc,18
+V2_18,4,Nước uống,Để uống,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,18
+V2_19,1,ACNOTIN,Acnotin 10,Sản phẩm này có tên là gì?,Tên sản phẩm,19
+V2_19,2,Thuốc điều trị mụn trứng cá nặng,Thuốc kê đơn,Phân loại của sản phẩm này là gì?,Loại sản phẩm,19
+V2_19,3,"Trắng, đỏ",Trắng và đỏ,Sản phẩm trong ảnh có màu gì?,Màu sắc,19
+V2_19,4,Thuốc uống,Không xác định,Cách sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,19
+V2_20,1,ACNOTIN,ACNOTIN 10,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,20
+V2_20,2,Thuốc điều trị mụn trứng cá nặng,Softgel capsule,Sản phẩm này thuộc loại nào?,Loại sản phẩm,20
+V2_20,3,"Trắng, đỏ",Không xác định,Sản phẩm này có màu như thế nào?,Màu sắc,20
+V2_20,4,Thuốc uống,As directed by Physician (See enclosed leaflet),Cách sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,20
+V2_21,1,ACNOTIN,Không xác định,Sản phẩm này có tên là gì?,Tên sản phẩm,21
+V2_21,2,Thuốc điều trị mụn trứng cá nặng,Không xác định,Đây là loại sản phẩm gì?,Loại sản phẩm,21
+V2_21,4,Thuốc uống,Không xác định,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,21
+V2_21,5,23 tháng tính từ ngày sản xuất,06/10/2026,Sản phẩm này có hạn sử dụng đến khi nào?,Hạn sử dụng,21
+V2_22,1,COLGATE,Kem đánh răng Colgate kèm bàn chải đánh răng.,Đây là sản phẩm gì?,Tên sản phẩm,22
+V2_22,2,Kem đánh răng,Chăm sóc răng miệng.,Hãy cho tôi biết phân loại của sản phẩm này?,Loại sản phẩm,22
+V2_22,3,"Trắng, đỏ, xanh lá","Đỏ, xanh lá cây, xanh dương, trắng.",Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,22
+V2_22,4,"Giảm vi khuẩn gia tăng suốt 12 giờ. Giúp ngăn ngừa sâu răng, sự hình thành vôi răng, mảng bám và các vấn đề về nướu",Để làm sạch răng.,Hãy cho tôi biết cách sử dụng sản phẩm này?,Công dụng/Hướng dẫn sử dụng,22
+V2_23,1,COLGATE,Colgate Cavity Protection Strong Teeth Icy Cool Mint,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,23
+V2_23,3,"Trắng, đỏ, xanh lá","Đỏ, trắng",Màu sắc của sản phẩm trong ảnh như thế nào?,Màu sắc,23
+V2_23,4,"Giảm vi khuẩn gia tăng suốt 12 giờ. Giúp ngăn ngừa sâu răng, sự hình thành vôi răng, mảng bám và các vấn đề về nướu",Chải răng,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,23
+V2_23,5,Không xác định,"Xem EXP (Tháng Năm), MFG in trên nắp hộp",Hạn sử dụng của sản phẩm là gì?,Hạn sử dụng,23
+V2_24,1,COLGATE,Colgate,Tên của sản phẩm này là gì?,Tên sản phẩm,24
+V2_24,3,"Trắng, đỏ, xanh lá","Đỏ, trắng",Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,24
+V2_24,4,"Giảm vi khuẩn gia tăng suốt 12 giờ. Giúp ngăn ngừa sâu răng, sự hình thành vôi răng, mảng bám và các vấn đề về nướu",Cho răng chắc khỏe,Sản phẩm này có công dụng gì?,Công dụng/Hướng dẫn sử dụng,24
+V2_25,1,COLGATE,Kem đánh răng Colgate Cavity Protection Strong Teeth Icy Cool Mint.,Sản phẩm này được gọi là gì?,Tên sản phẩm,25
+V2_25,2,Kem đánh răng,Chăm sóc răng miệng.,Sản phẩm trong ảnh thuộc nhóm nào?,Loại sản phẩm,25
+V2_25,3,"Trắng, đỏ, xanh lá","Đỏ, xanh lá cây, trắng, xanh dương.",Sản phẩm trong ảnh có màu gì?,Màu sắc,25
+V2_25,4,"Giảm vi khuẩn gia tăng suốt 12 giờ. Giúp ngăn ngừa sâu răng, sự hình thành vôi răng, mảng bám và các vấn đề về nướu","Bảo vệ răng khỏi sâu răng, giúp răng chắc khỏe.",Sản phẩm này có công dụng gì?,Công dụng/Hướng dẫn sử dụng,25
+V2_26,1,COLGATE,Colgate,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,26
+V2_26,3,"Trắng, đỏ, xanh lá","Đỏ, xanh lá cây, trắng",Màu sắc của sản phẩm trong ảnh như thế nào?,Màu sắc,26
+V2_26,4,"Giảm vi khuẩn gia tăng suốt 12 giờ. Giúp ngăn ngừa sâu răng, sự hình thành vôi răng, mảng bám và các vấn đề về nướu",Để làm sạch răng,Sản phẩm này dùng để làm gì?,Công dụng/Hướng dẫn sử dụng,26
+V2_27,1,CLENZIDERM,CLENZIderm M.D.™ Pore Therapy,Có thể cho biết tên của sản phẩm này không?,Tên sản phẩm,27
+V2_27,2,Lotion trị mụn,Acne treatment,Có thể cho biết loại của sản phẩm này được không?,Loại sản phẩm,27
+V2_27,3,Trắng,White,Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,27
+V2_27,4,"dung dịch đặc trị giúp sạch sâu lỗ chân lông, làm sạch da, có tác dụng loại sạch nhẹ nhàng bụi bẩn, tế bào chết, dầu thừa còn tồn động trong lỗ chân lông vừa hỗ trợ điều trị và ngăn ngừa mụn hình thành, nước hoa hồng",Điều trị mụn trứng cá,Sản phẩm này có công dụng gì?,Công dụng/Hướng dẫn sử dụng,27
+V2_28,1,CLENZIDERM,Clenziderm M.D.,Tên của sản phẩm này là gì?,Tên sản phẩm,28
+V2_28,2,Lotion trị mụn,Acne Treatment,Đây là loại sản phẩm gì?,Loại sản phẩm,28
+V2_28,4,"dung dịch đặc trị giúp sạch sâu lỗ chân lông, làm sạch da, có tác dụng loại sạch nhẹ nhàng bụi bẩn, tế bào chết, dầu thừa còn tồn động trong lỗ chân lông vừa hỗ trợ điều trị và ngăn ngừa mụn hình thành, nước hoa hồng",Trị mụn,Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,28
+V2_29,1,CLENZIDERM,CLENZIderm M.D. Pore Therapy,Đây là sản phẩm gì?,Tên sản phẩm,29
+V2_29,2,Lotion trị mụn,Sản phẩm trị mụn,Sản phẩm này thuộc loại nào?,Loại sản phẩm,29
+V2_29,4,"dung dịch đặc trị giúp sạch sâu lỗ chân lông, làm sạch da, có tác dụng loại sạch nhẹ nhàng bụi bẩn, tế bào chết, dầu thừa còn tồn động trong lỗ chân lông vừa hỗ trợ điều trị và ngăn ngừa mụn hình thành, nước hoa hồng","Rửa mặt, lắc đều sản phẩm, thoa một lớp mỏng lên vùng da bị mụn mỗi ngày một lần, sau đó tăng lên hai hoặc ba lần mỗi ngày.",Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,29
+V2_30,1,CLENZIDERM,Clenziderm MD,Có thể cho biết tên của sản phẩm này không?,Tên sản phẩm,30
+V2_30,2,Lotion trị mụn,Sản phẩm chăm sóc da,Sản phẩm trong ảnh thuộc nhóm nào?,Loại sản phẩm,30
+V2_30,4,"dung dịch đặc trị giúp sạch sâu lỗ chân lông, làm sạch da, có tác dụng loại sạch nhẹ nhàng bụi bẩn, tế bào chết, dầu thừa còn tồn động trong lỗ chân lông vừa hỗ trợ điều trị và ngăn ngừa mụn hình thành, nước hoa hồng",Không xác định,Hãy cho tôi biết cách sử dụng sản phẩm này?,Công dụng/Hướng dẫn sử dụng,30
+V2_31,1,Tường An Cooking Oil,Cooking Oil,Tên sản phẩm trong ảnh là gì?,Tên sản phẩm,31
+V2_31,2,Dầu thực vật,Dầu ăn,Phân loại của sản phẩm này là gì?,Loại sản phẩm,31
+V2_31,3,"Vàng, Trắng",Vàng,Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,31
+V2_31,4,"chuyên dùng cho việc chiên và xào, cũng thường được sử dụng cho các mục đích khác như trộn salad, làm nước sốt, và có thể được dùng để chế biến các món chay",Để nấu ăn,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,31
+V2_32,2,Dầu thực vật,Dầu ăn,Phân loại của sản phẩm này là gì?,Loại sản phẩm,32
+V2_32,3,"Vàng, Trắng",Vàng,Sản phẩm này màu gì?,Màu sắc,32
+V2_32,4,"chuyên dùng cho việc chiên và xào, cũng thường được sử dụng cho các mục đích khác như trộn salad, làm nước sốt, và có thể được dùng để chế biến các món chay",Không xác định,Hãy cho tôi biết cách sử dụng sản phẩm này?,Công dụng/Hướng dẫn sử dụng,32
+V2_33,2,Dầu thực vật,Dầu ăn,Đây là loại sản phẩm gì?,Loại sản phẩm,33
+V2_33,3,"Vàng, Trắng",Vàng,Sản phẩm trong ảnh có màu gì?,Màu sắc,33
+V2_33,4,"chuyên dùng cho việc chiên và xào, cũng thường được sử dụng cho các mục đích khác như trộn salad, làm nước sốt, và có thể được dùng để chế biến các món chay",Nấu ăn,Sản phẩm này dùng để làm gì?,Công dụng/Hướng dẫn sử dụng,33
+V2_34,2,Dầu thực vật,Gia vị,Sản phẩm này thuộc loại nào?,Loại sản phẩm,34
+V2_34,3,"Vàng, Đen",Vàng,Sản phẩm này có màu như thế nào?,Màu sắc,34
+V2_34,4,"Dùng để chấm trực tiếp với các món ăn như đậu hũ, rau luộc, thịt luộc, ... Dùng để tẩm ướp các món kho, xào, nướng, ... Dùng để pha chế các loại nước chấm.",Để nêm gia vị,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,34
+V2_35,1,Nước tương đậu nành Maggi,Nước tương Maggi,Có thể cho biết tên của sản phẩm này không?,Tên sản phẩm,35
+V2_35,2,Dầu thực vật,Nước tương,Đây là loại sản phẩm gì?,Loại sản phẩm,35
+V2_35,3,"Vàng, Đen",Vàng,Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,35
+V2_35,4,"Dùng để chấm trực tiếp với các món ăn như đậu hũ, rau luộc, thịt luộc, ... Dùng để tẩm ướp các món kho, xào, nướng, ... Dùng để pha chế các loại nước chấm.","Dùng trực tiếp, chấm, trộn, chế biến món ăn",Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,35
+V2_35,5,18 tháng tính từ ngày sản xuất,18 tháng trước hạn sử dụng,Tôi có thể sử dụng sản phẩm này trong bao lâu?,Hạn sử dụng,35
+V2_36,1,Nước tương đậu nành Maggi,MAGGI Thanh Dịu Từ Đậu Nành Lên Men Tự Nhiên,Có thể cho biết tên của sản phẩm này không?,Tên sản phẩm,36
+V2_36,2,Dầu thực vật,Nước tương/Gia vị,Sản phẩm này thuộc loại nào?,Loại sản phẩm,36
+V2_36,3,"Vàng, Đen","Vàng, nâu",Màu của sản phẩm là màu gì?,Màu sắc,36
+V2_36,4,"Dùng để chấm trực tiếp với các món ăn như đậu hũ, rau luộc, thịt luộc, ... Dùng để tẩm ướp các món kho, xào, nướng, ... Dùng để pha chế các loại nước chấm.",Gia vị nấu ăn,Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,36
+V2_36,5,Không xác định,HSD: 05/05/2026,Hạn sử dụng của sản phẩm trong ảnh là gì?,Hạn sử dụng,36
+V2_37,2,"Nước giải khát, Nước lọc đóng chai",Nước uống đóng chai,Sản phẩm này thuộc loại gì?,Loại sản phẩm,37
+V2_37,3,Xanh da trời,Trong suốt,Sản phẩm trong ảnh có màu gì?,Màu sắc,37
+V2_37,4,"Cung cấp nước uống tinh khiết, giải khát và bù nước. Hỗ trợ quá trình trao đổi chất",Giải khát,Sản phẩm này có công dụng gì?,Công dụng/Hướng dẫn sử dụng,37
+V2_38,1,Xí muội Thái,Xí Muội Thái,Tên của sản phẩm này là gì?,Tên sản phẩm,38
+V2_38,2,Thực phẩm,Đồ ăn vặt,Sản phẩm này được phân loại như thế nào?,Loại sản phẩm,38
+V2_38,3,"Trắng, Nâu",Nâu,Sản phẩm này màu gì?,Màu sắc,38
+V2_38,4,"Kích thích vị giác, hỗ trợ tiêu hoá, bổ sung vitamin và khoáng chất",Không xác định,Hãy cho tôi biết cách sử dụng sản phẩm này?,Công dụng/Hướng dẫn sử dụng,38
+V2_38,5,30 đến 60 ngày,"30 ngày ở nhiệt độ thường, 60 ngày trong tủ mát",Sản phẩm này có hạn sử dụng đến khi nào?,Hạn sử dụng,38
+V2_39,1,Xí muội Thái,Xí Muội Thái,Tên của sản phẩm này là gì?,Tên sản phẩm,39
+V2_39,2,Thực phẩm,Thực phẩm (Xí muội),Phân loại của sản phẩm này là gì?,Loại sản phẩm,39
+V2_39,3,"Trắng, Nâu",Nâu,Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,39
+V2_39,4,"Kích thích vị giác, hỗ trợ tiêu hoá, bổ sung vitamin và khoáng chất",Nhai và nuốt,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,39
+V2_39,5,Không xác định,"30 ngày (tủ thường), 60 ngày (tủ mát)",Tôi có thể sử dụng sản phẩm này trong bao lâu?,Hạn sử dụng,39
+V2_40,1,Xí muội Thái,Xí Muội Thái,Có thể cho biết tên của sản phẩm này không?,Tên sản phẩm,40
+V2_40,2,Thực phẩm,Xí muội,Sản phẩm này thuộc loại nào?,Loại sản phẩm,40
+V2_40,3,"Trắng, Nâu",Nâu,Sản phẩm này màu gì?,Màu sắc,40
+V2_40,4,"Kích thích vị giác, hỗ trợ tiêu hoá, bổ sung vitamin và khoáng chất",Ăn vặt,Sản phẩm này dùng để làm gì?,Công dụng/Hướng dẫn sử dụng,40
+V2_40,5,Không xác định,30 ngày - tủ mát 60 ngày,Hạn sử dụng của sản phẩm trong ảnh là gì?,Hạn sử dụng,40
+V2_41,1,Destination B1,Destination B1 Grammar & Vocabulary with Answer Key,Tên của sản phẩm này là gì?,Tên sản phẩm,41
+V2_41,2,"Sách, Từ điển",Sách tiếng Anh,Sản phẩm trong ảnh thuộc nhóm nào?,Loại sản phẩm,41
+V2_41,3,Đen,"Đen, trắng, xanh lá cây",Sản phẩm trong ảnh có màu gì?,Màu sắc,41
+V2_41,4,"Giải thích từ ngữ, thông tin về từ loại, cách phát âm, từ đồng nghĩa, trái nghãi",Học ngữ pháp và từ vựng tiếng Anh,Sản phẩm này dùng để làm gì?,Công dụng/Hướng dẫn sử dụng,41
+V2_42,1,Destination B1,Sách giáo trình,Đây là sản phẩm gì?,Tên sản phẩm,42
+V2_42,2,"Sách, Từ điển",Sách học tiếng Anh,Sản phẩm trong ảnh thuộc nhóm nào?,Loại sản phẩm,42
+V2_42,3,Đen,Xám và xanh lá cây,Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,42
+V2_42,4,"Giải thích từ ngữ, thông tin về từ loại, cách phát âm, từ đồng nghĩa, trái nghãi",Học ngữ pháp và từ vựng tiếng Anh,Sản phẩm này có công dụng gì?,Công dụng/Hướng dẫn sử dụng,42
+V2_43,1,Destination B1,Destination B1 Grammar and Vocabulary,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,43
+V2_43,2,"Sách, Từ điển",Sách học ngữ pháp và từ vựng,Sản phẩm này được phân loại như thế nào?,Loại sản phẩm,43
+V2_43,3,Đen,"Đen, trắng, xanh lá cây",Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,43
+V2_43,4,"Giải thích từ ngữ, thông tin về từ loại, cách phát âm, từ đồng nghĩa, trái nghãi",Học ngữ pháp và từ vựng,Hãy cho tôi biết cách sử dụng sản phẩm này?,Công dụng/Hướng dẫn sử dụng,43
+V2_44,4,"Đánh răng, giúp răng trắng sáng, chắc khoẻ","Giúp răng trắng sáng an toàn, tự nhiên",Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,44
+V2_45,4,"Đánh răng, giúp răng trắng sáng, chắc khoẻ","Trắng răng, ngừa viêm lợi, nhiệt miệng, chảy máu chân răng",Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,45
+V2_45,5,36 tháng tính từ ngày sản xuất,091227,Hạn sử dụng của sản phẩm là gì?,Hạn sử dụng,45
+V2_46,3,Trắng,"Trắng, xanh lá cây",Sản phẩm này có màu như thế nào?,Màu sắc,46
+V2_46,4,"Đánh răng, giúp răng trắng sáng, chắc khoẻ",Chải răng mỗi sáng và tối. Sử dụng một lượng kem vừa đủ chải răng.,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,46
+V2_47,1,Kinder Omega-3 Syrups,Kinder Omega-3 Syrup,Sản phẩm này được gọi là gì?,Tên sản phẩm,47
+V2_47,2,Thực phẩm bổ sung,Vitamin syrup,Sản phẩm này được phân loại như thế nào?,Loại sản phẩm,47
+V2_47,3,"Trắng, đỏ, xanh dương","Syrup 2. Vitamin syrup 3. Màu trắng, xanh, cam, đỏ.",Màu của sản phẩm là màu gì?,Màu sắc,47
+V2_47,4,Uống,Không xác định,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,47
+V2_48,1,Kinder Omega-3 Syrups,Doppelherz Aktiv Kinder Omega-3 Syrup,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,48
+V2_48,2,Thực phẩm bổ sung,Thực phẩm bảo vệ sức khỏe (Dietary supplement),Hãy cho tôi biết phân loại của sản phẩm này?,Loại sản phẩm,48
+V2_48,3,"Trắng, đỏ, xanh dương",Syrup 2. Thực phẩm bảo vệ sức khỏe (Dietary supplement) 3. Không xác định,Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,48
+V2_48,4,Uống,"Lắc kỹ trước khi dùng, liều lượng theo độ tuổi (Shake well before using, dosage according to age)",Cách sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,48
+V2_48,5,Không xác định,Bảo quản trong ngăn mát tủ lạnh và sử dụng trong vòng 1 tháng sau khi mở nắp (Refrigerate and use within 1 month after opening),Tôi có thể sử dụng sản phẩm này trong bao lâu?,Hạn sử dụng,48
+V2_49,1,Kinder Omega-3 Syrups,Kinder Omega-3 Syrup,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,49
+V2_49,2,Thực phẩm bổ sung,Food supplement,Sản phẩm này được phân loại như thế nào?,Loại sản phẩm,49
+V2_49,3,"Trắng, đỏ, xanh dương",Syrup 2. Food supplement 3. Không xác định,Màu của sản phẩm là màu gì?,Màu sắc,49
+V2_49,4,Uống,Không xác định,Sản phẩm này có công dụng gì?,Công dụng/Hướng dẫn sử dụng,49
+V2_49,5,Không xác định,1 month sau khi mở nắp,Sản phẩm này có thời hạn sử dụng bao lâu?,Hạn sử dụng,49
+V2_50,2,"Nước ngọt, Nước giải khát",Ổi Hồng Chanh Dây 2. Nước giải khát,Sản phẩm trong ảnh thuộc nhóm nào?,Loại sản phẩm,50
+V2_50,3,"Hồng, Vàng","Hồng, vàng",Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,50
+V2_51,1,C2 Ổi Hồng Chanh Dây,Trà 2°2 Guava Fruit,Sản phẩm này được gọi là gì?,Tên sản phẩm,51
+V2_51,2,"Nước ngọt, Nước giải khát",Guava Fruit 2. Nước giải khát,Sản phẩm này thuộc loại nào?,Loại sản phẩm,51
+V2_51,3,"Hồng, Vàng","Hồng, vàng",Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,51
+V2_51,4,Uống,Giải khát,Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,51
+V2_51,5,Không xác định,Xem trên cổ chai,Hạn sử dụng của sản phẩm là gì?,Hạn sử dụng,51
+V2_52,1,C2 Ổi Hồng Chanh Dây,Trà xanh hương ổi hồng chanh dây C2,Đây là sản phẩm gì?,Tên sản phẩm,52
+V2_52,2,"Nước ngọt, Nước giải khát",2. Đồ uống,Phân loại của sản phẩm này là gì?,Loại sản phẩm,52
+V2_52,3,"Hồng, Vàng",Hồng,Sản phẩm này có màu như thế nào?,Màu sắc,52
+V2_52,4,Uống,Giải khát,Sản phẩm này dùng để làm gì?,Công dụng/Hướng dẫn sử dụng,52
+V2_52,5,12 tháng tính từ ngày sản xuất,Không xác định,Sản phẩm trong ảnh có hạn dùng đến khi nào?,Hạn sử dụng,52
+V2_53,1,Healthy Care Brain Booster Ginkgo Biloba,Brain Booster Ginkgo Biloba,Tên của sản phẩm này là gì?,Tên sản phẩm,53
+V2_53,2,Viên uống bổ não,Thực phẩm chức năng,Sản phẩm này thuộc loại nào?,Loại sản phẩm,53
+V2_53,3,"Trắng, xanh dương",Trắng,Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,53
+V2_53,4,"Hỗ trợ tăng cường lưu thông máu, hỗ trợ tăng cường khả năng hoạt động của não, cải thiện trí nhớ","Tăng cường sức khỏe não bộ, tăng cường sự tỉnh táo và cải thiện trí nhớ",Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,53
+V2_54,1,Healthy Care Brain Booster Ginkgo Biloba,Brain Booster Ginkgo Biloba 6000mg Capsules,Tên sản phẩm trong ảnh là gì?,Tên sản phẩm,54
+V2_54,2,Viên uống bổ não,Vitamins and Supplements,Sản phẩm này được phân loại như thế nào?,Loại sản phẩm,54
+V2_54,3,"Trắng, xanh dương",Không xác định,Màu của sản phẩm là màu gì?,Màu sắc,54
+V2_54,4,"Hỗ trợ tăng cường lưu thông máu, hỗ trợ tăng cường khả năng hoạt động của não, cải thiện trí nhớ",Take 1 capsule daily with a meal or as professionally prescribed.,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,54
+V2_55,1,Healthy Care Brain Booster Ginkgo Biloba,LUSTER BA ULTIMATE,Sản phẩm này có tên là gì?,Tên sản phẩm,55
+V2_55,2,Viên uống bổ não,Viên nang,Sản phẩm này thuộc loại nào?,Loại sản phẩm,55
+V2_55,3,"Trắng, xanh dương",Trắng,Màu của sản phẩm là màu gì?,Màu sắc,55
+V2_55,4,"Hỗ trợ tăng cường lưu thông máu, hỗ trợ tăng cường khả năng hoạt động của não, cải thiện trí nhớ",Không xác định,Sản phẩm này dùng để làm gì?,Công dụng/Hướng dẫn sử dụng,55
+V2_55,5,Không xác định,FEB 2026,Sản phẩm trong ảnh có hạn dùng đến khi nào?,Hạn sử dụng,55
+V2_56,1,Teisseiro,Mathieu Teisseire.,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,56
+V2_56,2,Không xác định,Si rô.,Đây là loại sản phẩm gì?,Loại sản phẩm,56
+V2_56,3,Nâu,"Vàng, đỏ.",Sản phẩm này có đặc điểm gì về màu sắc?,Màu sắc,56
+V2_56,4,Không xác định,Pha trộn đồ uống.,Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,56
+V2_57,1,Teisseiro,Mathieu Teisseire Litchi Lychee,Sản phẩm này có tên là gì?,Tên sản phẩm,57
+V2_57,2,Không xác định,Syrup,Đây là loại sản phẩm gì?,Loại sản phẩm,57
+V2_57,3,Nâu,Amber/Brownish,Sản phẩm trong ảnh có màu gì?,Màu sắc,57
+V2_57,4,Không xác định,To add to drinks for flavor,Sản phẩm này dùng để làm gì?,Công dụng/Hướng dẫn sử dụng,57
+V2_57,5,Không xác định,"Best before and consuming. Store in a cool, dry place.",Tôi có thể sử dụng sản phẩm này trong bao lâu?,Hạn sử dụng,57
+V2_58,1,Teisseiro,Rượu,Đây là sản phẩm gì?,Tên sản phẩm,58
+V2_58,2,Không xác định,Đồ uống có cồn,Hãy cho tôi biết phân loại của sản phẩm này?,Loại sản phẩm,58
+V2_58,4,Không xác định,Uống,Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,58
+V2_59,1,ORIHIRO,Sản phẩm: Không xác định,Đây là sản phẩm gì?,Tên sản phẩm,59
+V2_59,3,"Nâu, xanh lá nhạt, trắng",Màu sắc: Nâu,Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,59
+V2_59,4,Không xác định,Hướng dẫn sử dụng: Uống 4 viên mỗi ngày với nước hoặc nước ấm.,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,59
+V2_60,1,ORIHIRO,EPA-DHA含有精製魚油加工食品,Tên sản phẩm trong ảnh là gì?,Tên sản phẩm,60
+V2_60,2,Không xác định,Thực phẩm bổ sung,Sản phẩm này được phân loại như thế nào?,Loại sản phẩm,60
+V2_60,3,"Nâu, xanh lá nhạt, trắng",Nâu,Sản phẩm này màu gì?,Màu sắc,60
+V2_60,4,Không xác định,"Không để nơi có ánh nắng trực tiếp, nhiệt độ và độ ẩm cao, bảo quản nơi mát mẻ.",Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,60
+V2_60,5,Không xác định,Tháng 11 năm 2026,Sản phẩm này có thời hạn sử dụng bao lâu?,Hạn sử dụng,60
+V2_61,1,ORIHIRO,ORIHIRO フィッシュオイル,Sản phẩm này có tên là gì?,Tên sản phẩm,61
+V2_61,2,Không xác định,Dầu cá Omega-3 EPA&DHA,Đây là loại sản phẩm gì?,Loại sản phẩm,61
+V2_61,3,"Nâu, xanh lá nhạt, trắng",EPA&DHA 3. Nâu,Sản phẩm này có màu như thế nào?,Màu sắc,61
+V2_61,4,Không xác định,Uống 4 viên mỗi ngày,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,61
+V2_62,1,ORIHIRO,Không xác định,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,62
+V2_62,2,Không xác định,Thực phẩm chức năng/Vitamin/Thực phẩm bổ sung,Phân loại của sản phẩm này là gì?,Loại sản phẩm,62
+V2_62,3,"Nâu, xanh lá nhạt, trắng",Nâu sẫm,Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,62
+V2_62,4,Không xác định,Uống 4 viên mỗi ngày với nước hoặc nước ấm,Cách sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,62
+V2_63,1,"Dung dịch nhỏ mắt, nhỏ mũi Natri Clorat","Natri clorid 0,9%",Tên sản phẩm trong ảnh là gì?,Tên sản phẩm,63
+V2_63,3,"Trắng, xanh lá",Trắng và xanh lá cây,Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,63
+V2_63,4,"Nhỏ từng giọt vào mắt, vào mũi",Để nhỏ mắt và mũi,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,63
+V2_64,1,"Dung dịch nhỏ mắt, nhỏ mũi Natri Clorat",Không xác định,Tên sản phẩm trong ảnh là gì?,Tên sản phẩm,64
+V2_64,2,"Thuốc nhỏ mắt, nhỏ mũi",Dược phẩm,Hãy cho tôi biết phân loại của sản phẩm này?,Loại sản phẩm,64
+V2_64,3,"Trắng, xanh lá",Không xác định,Sản phẩm này màu gì?,Màu sắc,64
+V2_64,4,"Nhỏ từng giọt vào mắt, vào mũi",Đọc kỹ hướng dẫn sử dụng trước khi dùng. Chỉ dùng trong 15 ngày sau khi mở nắp.,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,64
+V2_65,1,"Dung dịch nhỏ mắt, nhỏ mũi Natri Clorat",Natri clorid,Hãy cho tôi biết tên sản phẩm trong ảnh?,Tên sản phẩm,65
+V2_65,2,"Thuốc nhỏ mắt, nhỏ mũi","Dung dịch rửa mắt, mũi",Hãy cho tôi biết phân loại của sản phẩm này?,Loại sản phẩm,65
+V2_65,3,"Trắng, xanh lá",Không xác định,Sản phẩm này có đặc điểm gì về màu sắc?,Màu sắc,65
+V2_65,4,"Nhỏ từng giọt vào mắt, vào mũi","Nhỏ hoặc rửa mắt, hốc mũi mỗi lần 1-3 giọt, ngày 1-3 lần",Cách sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,65
+V2_66,1,"Dung dịch nhỏ mắt, nhỏ mũi Natri Clorat",Natri Clorid 0.9%,Tên của sản phẩm này là gì?,Tên sản phẩm,66
+V2_66,2,"Thuốc nhỏ mắt, nhỏ mũi",Không xác định,Có thể cho biết loại của sản phẩm này được không?,Loại sản phẩm,66
+V2_66,3,"Trắng, xanh lá",Trắng,Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,66
+V2_66,4,"Nhỏ từng giọt vào mắt, vào mũi",Không xác định,Sản phẩm này dùng để làm gì?,Công dụng/Hướng dẫn sử dụng,66
+V2_67,1,Dung dịch nhỏ mắt Diquas,DIQUAS® Dung dịch nhỏ mắt Natri Diquafosol 3%,Đây là sản phẩm gì?,Tên sản phẩm,67
+V2_67,3,"Trắng, xanh dương, vàng","Trắng, vàng, xanh dương",Sản phẩm trong ảnh có màu gì?,Màu sắc,67
+V2_67,4,Nhỏ từng giọt vào mắt,Không xác định,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,67
+V2_68,1,Dung dịch nhỏ mắt Diquas,Không xác định,Sản phẩm này có tên là gì?,Tên sản phẩm,68
+V2_68,2,Thuốc nhỏ mắt,Thuốc,Có thể cho biết loại của sản phẩm này được không?,Loại sản phẩm,68
+V2_68,3,"Trắng, xanh dương, vàng","Trắng, xanh, vàng",Sản phẩm này màu gì?,Màu sắc,68
+V2_68,4,Nhỏ từng giọt vào mắt,Không xác định,Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,68
+V2_68,5,31 tháng kể từ ngày sản xuất,Đến 11/06/26,Tôi có thể sử dụng sản phẩm này trong bao lâu?,Hạn sử dụng,68
+V2_69,1,Dung dịch nhỏ mắt Diquas,DIQUAS,Có thể cho biết tên của sản phẩm này không?,Tên sản phẩm,69
+V2_69,2,Thuốc nhỏ mắt,Ophthalmic solution,Sản phẩm này thuộc loại nào?,Loại sản phẩm,69
+V2_69,3,"Trắng, xanh dương","White, yellow, blue",Bạn có thể mô tả màu sắc của sản phẩm không?,Màu sắc,69
+V2_69,4,Nhỏ từng giọt vào mắt,Không xác định,Sản phẩm trong ảnh được sử dụng như thế nào?,Công dụng/Hướng dẫn sử dụng,69
+V2_70,1,Dung dịch nhỏ mắt Diquas,Thuốc nhỏ mắt,Đây là sản phẩm gì?,Tên sản phẩm,70
+V2_70,2,Thuốc nhỏ mắt,Thuốc,Sản phẩm này thuộc loại gì?,Loại sản phẩm,70
+V2_70,3,"Trắng, xanh dương, vàng","Trắng, vàng, xanh dương",Sản phẩm này màu gì?,Màu sắc,70
+V2_70,4,Nhỏ từng giọt vào mắt,Không xác định,Sản phẩm này có công dụng gì?,Công dụng/Hướng dẫn sử dụng,70
+V2_70,5,Không xác định,1 tháng sau khi mở nắp,Hạn sử dụng của sản phẩm trong ảnh là gì?,Hạn sử dụng,70
+V2_71,1,Dung dịch nhỏ mắt Diquas,Diquas Ophthalmic solution,Đây là sản phẩm gì?,Tên sản phẩm,71
+V2_71,3,"Trắng, xanh dương, vàng","Trắng, xanh, vàng",Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,71
+V2_71,4,Nhỏ từng giọt vào mắt,Không xác định,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,71
+V2_72,1,Dung dịch nhỏ mắt Sanlein,Không xác định,Sản phẩm này được gọi là gì?,Tên sản phẩm,72
+V2_72,3,"Trắng, xanh dương","Trắng, xanh",Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,72
+V2_72,4,Nhỏ từng giọt vào mắt,Xem tờ hướng dẫn sử dụng thuốc kèm theo,Cách sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,72
+V2_72,5,36 tháng kể từ ngày sản xuất,Đến 120326,Tôi có thể sử dụng sản phẩm này trong bao lâu?,Hạn sử dụng,72
+V2_73,1,Dung dịch nhỏ mắt Sanlein,Sanlein 0.3,Tên sản phẩm trong ảnh là gì?,Tên sản phẩm,73
+V2_73,2,Thuốc nhỏ mắt,Ophthalmic solution,Sản phẩm này thuộc loại gì?,Loại sản phẩm,73
+V2_73,3,"Trắng, xanh dương","2. Ophthalmic solution 3. Trắng, xanh",Sản phẩm này có màu như thế nào?,Màu sắc,73
+V2_73,4,Nhỏ từng giọt vào mắt,Không xác định,Bạn có thể cho biết công dụng của sản phẩm không?,Công dụng/Hướng dẫn sử dụng,73
+V2_74,1,Dung dịch nhỏ mắt Sanlein,Không xác định,Có thể cho biết tên của sản phẩm này không?,Tên sản phẩm,74
+V2_74,3,"Trắng, xanh dương","Trắng, xanh",Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,74
+V2_74,4,Nhỏ từng giọt vào mắt,Nhỏ mắt,Hãy cho tôi biết cách sử dụng sản phẩm này?,Công dụng/Hướng dẫn sử dụng,74
+V2_74,5,Không xác định,Hủy bỏ sau khi mở 1 tháng,Hãy cho tôi biết hạn dùng của sản phẩm này?,Hạn sử dụng,74
+V2_75,1,Dung dịch nhỏ mắt Sanlein,Sanlein 0.3,Sản phẩm này có tên là gì?,Tên sản phẩm,75
+V2_75,2,Thuốc nhỏ mắt,Dung dịch nhỏ mắt,Sản phẩm này thuộc loại nào?,Loại sản phẩm,75
+V2_75,3,"Trắng, xanh dương",2. Dung dịch nhỏ mắt 3. Trắng và xanh dương,Hãy cho tôi biết màu sắc của sản phẩm này?,Màu sắc,75
+V2_75,4,Nhỏ từng giọt vào mắt,Không xác định,Hướng dẫn sử dụng sản phẩm này như thế nào?,Công dụng/Hướng dẫn sử dụng,75

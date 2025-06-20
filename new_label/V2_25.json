@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Sản phẩm này được gọi là gì?",
+        "answer": "COLGATE",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm trong ảnh thuộc nhóm nào?",
+        "answer": "Kem đánh răng",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm trong ảnh có màu gì?",
+        "answer": "Trắng, đỏ, xanh lá",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm này có công dụng gì?",
+        "answer": "Giảm vi khuẩn gia tăng suốt 12 giờ. Giúp ngăn ngừa sâu răng, sự hình thành vôi răng, mảng bám và các vấn đề về nướu",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hạn sử dụng của sản phẩm trong ảnh là gì?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Có thể cho biết tên của sản phẩm này không?",
+        "answer": "Không xác định",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Có thể cho biết loại của sản phẩm này được không?",
+        "answer": "Không xác định",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm trong ảnh có màu gì?",
+        "answer": "Nhãn màu trắng - lọ màu nâu",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Hãy cho tôi biết cách sử dụng sản phẩm này?",
+        "answer": "Không xác định",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Sản phẩm này có thời hạn sử dụng bao lâu?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

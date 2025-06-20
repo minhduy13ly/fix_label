@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Có thể cho biết tên của sản phẩm này không?",
+        "answer": "Kem đánh răng dược liệu Ngọc Châu",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này thuộc loại gì?",
+        "answer": "Kem đánh răng",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Màu sắc của sản phẩm trong ảnh như thế nào?",
+        "answer": "Trắng",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
+        "answer": "Đánh răng, giúp răng trắng sáng, chắc khoẻ",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hạn sử dụng của sản phẩm là gì?",
+        "answer": "36 tháng tính từ ngày sản xuất",
+        "field": "Hạn sử dụng"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Có thể cho biết tên của sản phẩm này không?",
+        "answer": "Xí muội Thái",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này thuộc loại nào?",
+        "answer": "Thực phẩm",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Sản phẩm này màu gì?",
+        "answer": "Trắng, Nâu",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm này dùng để làm gì?",
+        "answer": "Kích thích vị giác, hỗ trợ tiêu hoá, bổ sung vitamin và khoáng chất",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hạn sử dụng của sản phẩm trong ảnh là gì?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

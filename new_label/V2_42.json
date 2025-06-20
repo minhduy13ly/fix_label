@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Đây là sản phẩm gì?",
+        "answer": "Destination B1",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm trong ảnh thuộc nhóm nào?",
+        "answer": "Sách, Từ điển",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Bạn có thể mô tả màu sắc của sản phẩm không?",
+        "answer": "Đen",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm này có công dụng gì?",
+        "answer": "Giải thích từ ngữ, thông tin về từ loại, cách phát âm, từ đồng nghĩa, trái nghãi",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hạn sử dụng của sản phẩm là gì?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

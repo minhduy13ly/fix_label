@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Hãy cho tôi biết tên sản phẩm trong ảnh?",
+        "answer": "Kinder Omega-3 Syrups",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này được phân loại như thế nào?",
+        "answer": "Thực phẩm bổ sung",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Màu của sản phẩm là màu gì?",
+        "answer": "Trắng, đỏ, xanh dương",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm này có công dụng gì?",
+        "answer": "Uống",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Sản phẩm này có thời hạn sử dụng bao lâu?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

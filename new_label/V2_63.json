@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Tên sản phẩm trong ảnh là gì?",
+        "answer": "Dung dịch nhỏ mắt, nhỏ mũi Natri Clorat",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Sản phẩm này thuộc loại gì?",
+        "answer": "Thuốc nhỏ mắt, nhỏ mũi",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Hãy cho tôi biết màu sắc của sản phẩm này?",
+        "answer": "Trắng, xanh lá",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
+        "answer": "Nhỏ từng giọt vào mắt, vào mũi",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Sản phẩm này có hạn sử dụng đến khi nào?",
+        "answer": "Không xác định",
+        "field": "Hạn sử dụng"
+    }
+]

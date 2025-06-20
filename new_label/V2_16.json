@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Tên sản phẩm trong ảnh là gì?",
+        "answer": "JOMI",
+        "field": "Tên sản phẩm"
+    },
+    {
+        "id": 2,
+        "question": "Có thể cho biết loại của sản phẩm này được không?",
+        "answer": "Tăm bông",
+        "field": "Loại sản phẩm"
+    },
+    {
+        "id": 3,
+        "question": "Bạn có thể mô tả màu sắc của sản phẩm không?",
+        "answer": "Trắng, xanh da trời",
+        "field": "Màu sắc"
+    },
+    {
+        "id": 4,
+        "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
+        "answer": "Dùng để vệ sinh tai, mũi, bôi thuốc hoặc vệ sinh khác",
+        "field": "Công dụng/Hướng dẫn sử dụng"
+    },
+    {
+        "id": 5,
+        "question": "Hãy cho tôi biết hạn dùng của sản phẩm này?",
+        "answer": "5 năm tính từ ngày sản xuất",
+        "field": "Hạn sử dụng"
+    }
+]
