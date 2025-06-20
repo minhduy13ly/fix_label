@@ -8,19 +8,19 @@
     {
         "id": 2,
         "question": "Đây là loại sản phẩm gì?",
-        "answer": "Không xác định",
+        "answer": "Dầu cá Omega-3",
         "field": "Loại sản phẩm"
     },
     {
         "id": 3,
         "question": "Sản phẩm này có màu như thế nào?",
-        "answer": "Nâu, xanh lá nhạt, trắng",
+        "answer": "Nâu",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
-        "answer": "Không xác định",
+        "answer": "Uống 4 viên mỗi ngày",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

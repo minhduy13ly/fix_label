@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Hãy cho tôi biết tên sản phẩm trong ảnh?",
-        "answer": "Dung dịch nhỏ mắt, nhỏ mũi Natri Clorat",
+        "answer": "Dung dịch nhỏ mắt, nhỏ mũi Natri Clorid",
         "field": "Tên sản phẩm"
     },
     {
@@ -14,13 +14,13 @@
     {
         "id": 3,
         "question": "Sản phẩm này có đặc điểm gì về màu sắc?",
-        "answer": "Trắng, xanh lá",
+        "answer": "Trắng",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Cách sử dụng sản phẩm này như thế nào?",
-        "answer": "Nhỏ từng giọt vào mắt, vào mũi",
+        "answer": "Nhỏ hoặc rửa mắt, hốc mũi mỗi lần 1-3 giọt, ngày 1-3 lần",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

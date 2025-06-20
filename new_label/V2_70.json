@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Đây là sản phẩm gì?",
-        "answer": "Dung dịch nhỏ mắt Diquas",
+        "answer": "Thuốc nhỏ mắt",
         "field": "Tên sản phẩm"
     },
     {
@@ -20,13 +20,13 @@
     {
         "id": 4,
         "question": "Sản phẩm này có công dụng gì?",
-        "answer": "Nhỏ từng giọt vào mắt",
+        "answer": "Nhỏ vào mắt",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
         "id": 5,
         "question": "Hạn sử dụng của sản phẩm trong ảnh là gì?",
-        "answer": "Không xác định",
+        "answer": "1 tháng sau khi mở nắp",
         "field": "Hạn sử dụng"
     }
 ]

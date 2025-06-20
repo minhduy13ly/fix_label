@@ -2,25 +2,25 @@
     {
         "id": 1,
         "question": "Tên sản phẩm trong ảnh là gì?",
-        "answer": "Dung dịch nhỏ mắt, nhỏ mũi Natri Clorat",
+        "answer": "Không xác định",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Hãy cho tôi biết phân loại của sản phẩm này?",
-        "answer": "Thuốc nhỏ mắt, nhỏ mũi",
+        "answer": "Dược phẩm",
         "field": "Loại sản phẩm"
     },
     {
         "id": 3,
         "question": "Sản phẩm này màu gì?",
-        "answer": "Trắng, xanh lá",
+        "answer": "Trắng",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Hướng dẫn sử dụng sản phẩm này như thế nào?",
-        "answer": "Nhỏ từng giọt vào mắt, vào mũi",
+        "answer": "Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng. Tham khảo thêm ý kiến bác sĩ. Chỉ sử dụng trong 15 ngày sau khi mở nắp.",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

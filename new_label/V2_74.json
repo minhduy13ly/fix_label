@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Có thể cho biết tên của sản phẩm này không?",
-        "answer": "Dung dịch nhỏ mắt Sanlein",
+        "answer": "Không xác định",
         "field": "Tên sản phẩm"
     },
     {
@@ -20,13 +20,13 @@
     {
         "id": 4,
         "question": "Hãy cho tôi biết cách sử dụng sản phẩm này?",
-        "answer": "Nhỏ từng giọt vào mắt",
+        "answer": "Nhỏ vào mắt",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
         "id": 5,
         "question": "Hãy cho tôi biết hạn dùng của sản phẩm này?",
-        "answer": "Không xác định",
+        "answer": "1 tháng sau khi mở",
         "field": "Hạn sử dụng"
     }
 ]

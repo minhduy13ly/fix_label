@@ -2,13 +2,13 @@
     {
         "id": 1,
         "question": "Tên của sản phẩm này là gì?",
-        "answer": "Dung dịch nhỏ mắt, nhỏ mũi Natri Clorat",
+        "answer": "Natri Clorid 0.9%",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Có thể cho biết loại của sản phẩm này được không?",
-        "answer": "Thuốc nhỏ mắt, nhỏ mũi",
+        "answer": "Không xác định",
         "field": "Loại sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Sản phẩm này dùng để làm gì?",
-        "answer": "Nhỏ từng giọt vào mắt, vào mũi",
+        "answer": "Không xác định",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

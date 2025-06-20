@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Có thể cho biết tên của sản phẩm này không?",
-        "answer": "Dung dịch nhỏ mắt Diquas",
+        "answer": "DIQUAS",
         "field": "Tên sản phẩm"
     },
     {
@@ -14,13 +14,13 @@
     {
         "id": 3,
         "question": "Bạn có thể mô tả màu sắc của sản phẩm không?",
-        "answer": "Trắng, xanh dương",
+        "answer": "Trắng, xanh dương, vàng",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
-        "answer": "Nhỏ từng giọt vào mắt",
+        "answer": "Nhỏ vào mắt",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
