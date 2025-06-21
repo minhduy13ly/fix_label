@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Tên sản phẩm trong ảnh là gì?",
-        "answer": "Vĩnh Hảo",
+        "answer": "Nước khoáng Vĩnh Hảo",
         "field": "Tên sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
-        "answer": "Uống",
+        "answer": "Cung cấp nước và khoáng chất cho cơ thể",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

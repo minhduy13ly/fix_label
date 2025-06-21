@@ -2,25 +2,25 @@
     {
         "id": 1,
         "question": "Đây là sản phẩm gì?",
-        "answer": "Không xác định",
+        "answer": "Nước Oxy Già",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Đây là loại sản phẩm gì?",
-        "answer": "Không xác định",
+        "answer": "Dung dịch sát khuẩn, khử trùng",
         "field": "Loại sản phẩm"
     },
     {
         "id": 3,
         "question": "Sản phẩm này có màu như thế nào?",
-        "answer": "Nhãn màu xanh trắng - lọ màu trắng",
+        "answer": "Trắng, xanh",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
-        "answer": "Không xác định",
+        "answer": "Sát khuẩn, khử trùng",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

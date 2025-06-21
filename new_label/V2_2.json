@@ -8,13 +8,13 @@
     {
         "id": 2,
         "question": "Sản phẩm trong ảnh thuộc nhóm nào?",
-        "answer": "Không xác định",
+        "answer": "Thuốc sát trùng",
         "field": "Loại sản phẩm"
     },
     {
         "id": 3,
         "question": "Sản phẩm này có màu như thế nào?",
-        "answer": "Nhãn màu xanh trắng - lọ màu trắng",
+        "answer": "Trắng, xanh",
         "field": "Màu sắc"
     },
     {

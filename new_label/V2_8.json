@@ -2,19 +2,19 @@
     {
         "id": 1,
         "question": "Sản phẩm này được gọi là gì?",
-        "answer": "BLACKMORE",
+        "answer": "Blackmores Vitamin E 1000",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Có thể cho biết loại của sản phẩm này được không?",
-        "answer": "VITAMIN E 1000",
+        "answer": "Vitamin",
         "field": "Loại sản phẩm"
     },
     {
         "id": 3,
         "question": "Sản phẩm này màu gì?",
-        "answer": "Nhãn màu trắng - lọ màu nâu",
+        "answer": "Trắng, nâu",
         "field": "Màu sắc"
     },
     {

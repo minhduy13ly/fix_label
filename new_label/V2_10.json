@@ -2,19 +2,19 @@
     {
         "id": 1,
         "question": "Sản phẩm này được gọi là gì?",
-        "answer": "Không xác định",
+        "answer": "Lõi Hạnh nhân",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Có thể cho biết loại của sản phẩm này được không?",
-        "answer": "Không xác định",
+        "answer": "Thực phẩm (Hạt)",
         "field": "Loại sản phẩm"
     },
     {
         "id": 3,
         "question": "Màu của sản phẩm là màu gì?",
-        "answer": "Nhãn vàng nâu - hộp trong suốt",
+        "answer": "Vàng nâu",
         "field": "Màu sắc"
     },
     {

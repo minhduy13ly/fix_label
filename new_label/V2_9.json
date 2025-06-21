@@ -2,19 +2,19 @@
     {
         "id": 1,
         "question": "Sản phẩm này được gọi là gì?",
-        "answer": "H'REN",
+        "answer": "H'REN Lõi Hạnh Nhân",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Sản phẩm này thuộc loại gì?",
-        "answer": "Lõi hạnh nhân",
+        "answer": "Thực phẩm (Hạt)",
         "field": "Loại sản phẩm"
     },
     {
         "id": 3,
         "question": "Sản phẩm này có đặc điểm gì về màu sắc?",
-        "answer": "Nhãn vàng nâu - hộp trong suốt",
+        "answer": "Vàng nâu",
         "field": "Màu sắc"
     },
     {

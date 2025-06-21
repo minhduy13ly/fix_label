@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Sản phẩm này có tên là gì?",
-        "answer": "Vĩnh Hảo",
+        "answer": "Nước uống đóng chai Vĩnh Hảo không ga",
         "field": "Tên sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
-        "answer": "Uống ngon hơn khi ướp lạnh",
+        "answer": "Dùng để uống",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
