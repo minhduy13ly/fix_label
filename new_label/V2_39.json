@@ -28,5 +28,11 @@
         "question": "Tôi có thể sử dụng sản phẩm này trong bao lâu?",
         "answer": "Không xác định",
         "field": "Hạn sử dụng"
+    },
+    {
+        "id": 6,
+        "question": "Hướng dẫn sử dụng ghi trên bao bì mô tả như thế nào?",
+        "answer": "Xí muội Thái có vị mặn mặn, mềm dẻo, chua chua độc đáo. Khi nhai và nuốt tới cuống họng sẽ cảm nhận được vị ngọt tự nhiên. Chống say tàu xe, giảm ho kích thích tiêu hóa.",
+        "field": "Hướng dẫn sử dụng"
     }
 ]

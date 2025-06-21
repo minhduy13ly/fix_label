@@ -28,5 +28,11 @@
         "question": "Hạn sử dụng của sản phẩm là gì?",
         "answer": "Không xác định",
         "field": "Hạn sử dụng"
+    },
+    {
+        "id": 6,
+        "question": "Trên bìa sản phẩm có ghi thông tin gì?",
+        "answer": "Trên bìa sản phẩm có ghi tên sách là 'Destination B1', phần thứ 2 ghi phân loại sách là 'Grammar & Vocabulary', phần thứ 3 ghi tên tác giả là 'Malcolm Mann & Steve Taylore-Knowles'. Phần thứ 4 ghi 'Dịch giả: Nguyễn Thanh Vân - Giảng viên ĐHNN-ĐHQG Hà Nội'. Phần thứ 5 nằm dưới cùng có ghi 'Nhà xuất bản Hồng Đức'. Bên cạnh đó sản phẩm có tem chống hàng giả, nhãn 'sách bản quyền', và có ghi thêm một số sản phẩm dùng kèm.",
+        "field": "Thông tin trên bìa sản phẩm"
     }
 ]

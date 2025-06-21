@@ -28,5 +28,17 @@
         "question": "Bạn có thể cho biết hạn sử dụng của sản phẩm không?",
         "answer": "Không xác định",
         "field": "Hạn sử dụng"
+    },
+    {
+        "id": 6,
+        "question": "Trên bìa sản phẩm có ghi những thông tin gì? Bạn có thể tóm tắt hay mô tả chúng không?",
+        "answer": "Đây là bìa mặt sau của sách. Sách có tên là 'Destination B1-Grammar and Vocabulary'. Sách có bìa đen, chữ trắng, thông tin trên sách ghi bằng tiếng Anh. Nội dung trên sách có ghi giới thiệu về sách: Sách này là sách ngữ pháp và từ vựng tiếng Anh, sách được thiết kế cho đối tượng là học sinh mức độ B1 về tiếng Anh. Sách này phù hơp cho những học sinh cần thực hành và học sinh thi bài thi mức độ B1. Sách có ghi thêm thông tin là 'Key Features'. Thông tin này cung cấp các chức năng, tác dụng của sách như: bao gồm 28 cấu trúc ngữ pháp, 14 đơn vị từ vựng,  2 bài test quá trình, sách trình bài có hệ thống tât cả cấu rúc ngữ pháp và từ vựng yêu cầu của mức B1. Ngoài ra bên dưới sách có ghi một số liên kết nguồn sách bạn có thể sử dụng trên điện thoại Android hoặc IOS. Bên cạnh đó sách có giới thiệu một số sản phẩm khác có chức năng tương tự nhưng ở level cao hơn B1.",
+        "field": "Thông tin trên bìa sản phẩm/Mô tả sản phẩm"
+    },
+    {
+        "id": 7,
+        "question": "Trên bìa sản phẩm có ghi giá sản phẩm không? Giá là bao nhiêu?",
+        "answer": "Sản phẩm có ghi giá tiền là 178.000 VNĐ.",
+        "field": "Giá sản phẩm"
     }
 ]

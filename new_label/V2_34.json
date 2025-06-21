@@ -2,13 +2,13 @@
     {
         "id": 1,
         "question": "Đây là sản phẩm gì?",
-        "answer": "Nước tương đậu nành Maggi",
+        "answer": "Nước tương đậu nành Thanh Dịu thương hiệu Maggi.",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Sản phẩm này thuộc loại nào?",
-        "answer": "Dầu thực vật",
+        "answer": "Sản phẩm này thuộc loại gia vị tiêu dùng, cụ thể là loại nước tương đậu nành.",
         "field": "Loại sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
-        "answer": "Dùng để chấm trực tiếp với các món ăn như đậu hũ, rau luộc, thịt luộc, ... Dùng để tẩm ướp các món kho, xào, nướng, ... Dùng để pha chế các loại nước chấm.",
+        "answer": "Dùng để chấm trực tiếp với các món ăn như đậu hũ, rau luộc, thịt luộc,... Dùng để tẩm ướp các món kho, xào, nướng, ... Dùng để pha chế các loại nước chấm.",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

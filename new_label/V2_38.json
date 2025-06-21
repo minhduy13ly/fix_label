@@ -14,19 +14,19 @@
     {
         "id": 3,
         "question": "Sản phẩm này màu gì?",
-        "answer": "Trắng, Nâu",
+        "answer": "Trắng, Đỏ, Nâu",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Hãy cho tôi biết cách sử dụng sản phẩm này?",
-        "answer": "Kích thích vị giác, hỗ trợ tiêu hoá, bổ sung vitamin và khoáng chất",
+        "answer": "Kích thích vị giác, hỗ trợ tiêu hoá, bổ sung vitamin và khoáng chất. Ăn vặt.",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
         "id": 5,
         "question": "Sản phẩm này có hạn sử dụng đến khi nào?",
-        "answer": "30 đến 60 ngày",
+        "answer": "30 ngày, để tủ mát có thể bảo quản đến 60 ngày",
         "field": "Hạn sử dụng"
     }
 ]

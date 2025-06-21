@@ -2,13 +2,13 @@
     {
         "id": 1,
         "question": "Đây là sản phẩm gì?",
-        "answer": "Kem đánh răng dược liệu Ngọc Châu",
+        "answer": "Kem đánh răng dược liệu thương hiệu Ngọc Châu",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Phân loại của sản phẩm này là gì?",
-        "answer": "Kem đánh răng",
+        "answer": "Kem đánh răng, Hàng tiêu dùng",
         "field": "Loại sản phẩm"
     },
     {
@@ -28,5 +28,11 @@
         "question": "Sản phẩm này có hạn sử dụng đến khi nào?",
         "answer": "Không xác định",
         "field": "Hạn sử dụng"
+    },
+    {
+        "id": 6,
+        "question": "Trên bao bì sản phẩm có ghi những thông tin gì?",
+        "answer": "Trên bao bì có ghi tên sản phẩm là 'Kem đánh răng dược liệu thương hiệu Ngọc Châu'. Nhãn sản phẩm có ghi 'Trắng Sáng' và 'Dược liệu'. Theo tôi biết sản phẩm dùng các nguyên liệu thiên nhiên, dược liệu giúp răng trắng sáng và khỏe mạnh. Bên dưới có ghi chức năng sản phẩm là 'Tăng cường bột xơ từ vỏ quả cau giúp răng trắng sáng, an toàn, tự nhiên.' Ngoài ra sản phẩm còn ghi 'Trắng răng, chắc khỏe răng góp phần ngừa viêm lợi, nhiệt miệng và chảy máu chân răng'. Sản phẩm có tem niêm phong và ghi khối lượng là '100g'.",
+        "field": "Thông tin trên bao bì sản phẩm"
     }
 ]

@@ -28,5 +28,11 @@
         "question": "Hạn sử dụng của sản phẩm là gì?",
         "answer": "36 tháng tính từ ngày sản xuất",
         "field": "Hạn sử dụng"
+    },
+    {
+        "id": 6,
+        "question": "Bạn hãy cho tôi biết ngày sản xuất, hạn sử dụng ghi trên sản phẩm. Mô tả một cách dễ hiểu.",
+        "answer": "Trên bao bì sản phẩm cố ghi Lô sản xuất là 01624, ngày sản xuất là ngày 9 tháng 12 năm 2024, và hạn sử dụng là ngày 9 tháng 12 năm 2027.",
+        "field": "Thông tin trên bao bì sản phẩm"
     }
 ]

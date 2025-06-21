@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Tên sản phẩm trong ảnh là gì?",
-        "answer": "Tường An Cooking Oil",
+        "answer": "Dầu thực vật Cooking Oil thương hiệu Tường An",
         "field": "Tên sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Hãy cho tôi biết cách sử dụng sản phẩm này?",
-        "answer": "chuyên dùng cho việc chiên và xào, cũng thường được sử dụng cho các mục đích khác như trộn salad, làm nước sốt, và có thể được dùng để chế biến các món chay",
+        "answer": "Sản phẩm này chuyên dùng cho việc chiên và xào, cũng thường được sử dụng cho các mục đích khác như trộn salad, làm nước sốt, và có thể được dùng để chế biến các món chay",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
