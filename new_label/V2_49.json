@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Hãy cho tôi biết tên sản phẩm trong ảnh?",
-        "answer": "Kinder Omega-3 Syrups",
+        "answer": "Kinder Omega-3 Syrup",
         "field": "Tên sản phẩm"
     },
     {
@@ -20,13 +20,13 @@
     {
         "id": 4,
         "question": "Sản phẩm này có công dụng gì?",
-        "answer": "Uống",
+        "answer": "Không thể xác định từ hình ảnh",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
         "id": 5,
         "question": "Sản phẩm này có thời hạn sử dụng bao lâu?",
-        "answer": "Không xác định",
+        "answer": "1 tháng sau khi mở nắp và phải được bảo quản trong tủ lạnh",
         "field": "Hạn sử dụng"
     }
 ]

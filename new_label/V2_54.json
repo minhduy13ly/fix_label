@@ -14,13 +14,13 @@
     {
         "id": 3,
         "question": "Màu của sản phẩm là màu gì?",
-        "answer": "Trắng, xanh dương",
+        "answer": "Trắng, xám",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Hướng dẫn sử dụng sản phẩm này như thế nào?",
-        "answer": "Hỗ trợ tăng cường lưu thông máu, hỗ trợ tăng cường khả năng hoạt động của não, cải thiện trí nhớ",
+        "answer": "Uống 1 viên mỗi ngày cùng với bữa ăn hoặc theo chỉ dẫn của chuyên gia",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

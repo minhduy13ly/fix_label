@@ -8,7 +8,7 @@
     {
         "id": 2,
         "question": "Đây là loại sản phẩm gì?",
-        "answer": "Không xác định",
+        "answer": "Si-rô",
         "field": "Loại sản phẩm"
     },
     {
@@ -20,13 +20,13 @@
     {
         "id": 4,
         "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
-        "answer": "Không xác định",
+        "answer": "Dùng để pha vào đồ uống nhằm tăng hương vị",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
         "id": 5,
         "question": "Hạn sử dụng của sản phẩm là gì?",
-        "answer": "Không xác định",
+        "answer": "10/01/2026, nên dùng trước ngày này. Bảo quản nơi khô ráo, thoáng mát",
         "field": "Hạn sử dụng"
     }
 ]

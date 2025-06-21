@@ -2,13 +2,13 @@
     {
         "id": 1,
         "question": "Sản phẩm này có tên là gì?",
-        "answer": "Teisseiro",
+        "answer": "Mathieu Teisseire Litchi Lychee",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Đây là loại sản phẩm gì?",
-        "answer": "Không xác định",
+        "answer": "Si-rô",
         "field": "Loại sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Sản phẩm này dùng để làm gì?",
-        "answer": "Không xác định",
+        "answer": "Dùng để pha vào đồ uống nhằm tăng hương vị",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

@@ -14,13 +14,13 @@
     {
         "id": 3,
         "question": "Sản phẩm này có màu như thế nào?",
-        "answer": "Trắng",
+        "answer": "Màu trắng pha một chút màu xanh lá cây",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Hướng dẫn sử dụng sản phẩm này như thế nào?",
-        "answer": "Đánh răng, giúp răng trắng sáng, chắc khoẻ",
+        "answer": "Dùng để chải răng mỗi sáng và tối. Sử dụng một lượng kem có kích thước bằng hạt đạu để chải răng",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

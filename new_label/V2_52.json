@@ -8,7 +8,7 @@
     {
         "id": 2,
         "question": "Phân loại của sản phẩm này là gì?",
-        "answer": "Nước ngọt, Nước giải khát",
+        "answer": "Đồ uống giải khát",
         "field": "Loại sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Sản phẩm này dùng để làm gì?",
-        "answer": "Uống",
+        "answer": "Dùng để giải khát",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

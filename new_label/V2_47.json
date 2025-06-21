@@ -2,25 +2,25 @@
     {
         "id": 1,
         "question": "Sản phẩm này được gọi là gì?",
-        "answer": "Kinder Omega-3 Syrups",
+        "answer": "Kinder Omega-3 Syrup",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Sản phẩm này được phân loại như thế nào?",
-        "answer": "Thực phẩm bổ sung",
+        "answer": "Syrup bổ sung Omega-3",
         "field": "Loại sản phẩm"
     },
     {
         "id": 3,
         "question": "Màu của sản phẩm là màu gì?",
-        "answer": "Trắng, đỏ, xanh dương",
+        "answer": "Màu trắng, xanh, cam, đỏ",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Hướng dẫn sử dụng sản phẩm này như thế nào?",
-        "answer": "Uống",
+        "answer": "Uống 15 ml sau bữa trưa",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

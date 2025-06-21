@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Sản phẩm này có tên là gì?",
-        "answer": "Healthy Care Brain Booster Ginkgo Biloba",
+        "answer": "Không thể xác định tên sản phẩm từ hình ảnh",
         "field": "Tên sản phẩm"
     },
     {
@@ -20,13 +20,13 @@
     {
         "id": 4,
         "question": "Sản phẩm này dùng để làm gì?",
-        "answer": "Hỗ trợ tăng cường lưu thông máu, hỗ trợ tăng cường khả năng hoạt động của não, cải thiện trí nhớ",
+        "answer": "Không thể xác định công dụng từ hình ảnh",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
         "id": 5,
         "question": "Sản phẩm trong ảnh có hạn dùng đến khi nào?",
-        "answer": "Không xác định",
+        "answer": "Không thể xác định hạn sử dụng từ hình ảnh",
         "field": "Hạn sử dụng"
     }
 ]

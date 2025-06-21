@@ -8,7 +8,7 @@
     {
         "id": 2,
         "question": "Sản phẩm này thuộc loại nào?",
-        "answer": "Nước ngọt, Nước giải khát",
+        "answer": "Nước giải khát",
         "field": "Loại sản phẩm"
     },
     {
@@ -20,13 +20,13 @@
     {
         "id": 4,
         "question": "Bạn có thể cho biết công dụng của sản phẩm không?",
-        "answer": "Uống",
+        "answer": "Giải khát",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
         "id": 5,
         "question": "Hạn sử dụng của sản phẩm là gì?",
-        "answer": "Không xác định",
+        "answer": "Xem hạn sử dụng trên cổ chai",
         "field": "Hạn sử dụng"
     }
 ]
