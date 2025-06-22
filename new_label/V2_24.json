@@ -14,13 +14,13 @@
     {
         "id": 3,
         "question": "Hãy cho tôi biết màu sắc của sản phẩm này?",
-        "answer": "Trắng, đỏ, xanh lá",
+        "answer": "Trắng, đỏ",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Sản phẩm này có công dụng gì?",
-        "answer": "Giảm vi khuẩn gia tăng suốt 12 giờ. Giúp ngăn ngừa sâu răng, sự hình thành vôi răng, mảng bám và các vấn đề về nướu",
+        "answer": "Tăng cường Canxi cho răng chắc khỏe",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

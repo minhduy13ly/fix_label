@@ -2,13 +2,13 @@
     {
         "id": 1,
         "question": "Sản phẩm này có tên là gì?",
-        "answer": "ACNOTIN",
+        "answer": "Không rõ tên của sản phẩm",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Đây là loại sản phẩm gì?",
-        "answer": "Thuốc điều trị mụn trứng cá nặng",
+        "answer": "Không xác định",
         "field": "Loại sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
-        "answer": "Thuốc uống",
+        "answer": "Không xác định",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

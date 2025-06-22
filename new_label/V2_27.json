@@ -8,19 +8,19 @@
     {
         "id": 2,
         "question": "Có thể cho biết loại của sản phẩm này được không?",
-        "answer": "Lotion trị mụn",
+        "answer": "Điều trị mụn ",
         "field": "Loại sản phẩm"
     },
     {
         "id": 3,
         "question": "Bạn có thể mô tả màu sắc của sản phẩm không?",
-        "answer": "Trắng",
+        "answer": "Trắng, đen",
         "field": "Màu sắc"
     },
     {
         "id": 4,
         "question": "Sản phẩm này có công dụng gì?",
-        "answer": "dung dịch đặc trị giúp sạch sâu lỗ chân lông, làm sạch da, có tác dụng loại sạch nhẹ nhàng bụi bẩn, tế bào chết, dầu thừa còn tồn động trong lỗ chân lông vừa hỗ trợ điều trị và ngăn ngừa mụn hình thành, nước hoa hồng",
+        "answer": "Điều trị và ngăn ngừa mụn",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

@@ -2,13 +2,13 @@
     {
         "id": 1,
         "question": "Đây là sản phẩm gì?",
-        "answer": "COLGATE",
+        "answer": "Kem đánh răng Colgate và àn chải đánh răng",
         "field": "Tên sản phẩm"
     },
     {
         "id": 2,
         "question": "Hãy cho tôi biết phân loại của sản phẩm này?",
-        "answer": "Kem đánh răng",
+        "answer": "Chăm sóc và vệ sinh răng miệng",
         "field": "Loại sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Hãy cho tôi biết cách sử dụng sản phẩm này?",
-        "answer": "Giảm vi khuẩn gia tăng suốt 12 giờ. Giúp ngăn ngừa sâu răng, sự hình thành vôi răng, mảng bám và các vấn đề về nướu",
+        "answer": "Không xác định",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {

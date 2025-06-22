@@ -2,7 +2,7 @@
     {
         "id": 1,
         "question": "Hãy cho tôi biết tên sản phẩm trong ảnh?",
-        "answer": "COLGATE",
+        "answer": "Hộp kem đánh răng",
         "field": "Tên sản phẩm"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "question": "Sản phẩm trong ảnh được sử dụng như thế nào?",
-        "answer": "Giảm vi khuẩn gia tăng suốt 12 giờ. Giúp ngăn ngừa sâu răng, sự hình thành vôi răng, mảng bám và các vấn đề về nướu",
+        "answer": "Chải 2 lần mỗi ngày, súc miệng sau khi chải răng",
         "field": "Công dụng/Hướng dẫn sử dụng"
     },
     {
